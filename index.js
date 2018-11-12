@@ -1,5 +1,5 @@
 // write your code below!
-var name = "Sally"
+var name = "you"
 var holiday = "Thanksgiving"
 var days = 3
 function happyHolidays(string) {
