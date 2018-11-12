@@ -1,7 +1,4 @@
 // write your code below!
-var name = "Sally"
-var holiday = "Thanksgiving"
-var = 3
 function happyHolidays() {
   return "Happy holidays!"
 }
